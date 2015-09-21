@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>MavensClub -- Home</title>
+    <title>MavensClub -- Venue/Travel</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +11,7 @@
 	  <link href="_/css/mystyles.css" rel="stylesheet"> 
   </head>
 
-  <body id="home">
+  <body id="venutravel">
   
     <section class="container">
       <div class="content row">
